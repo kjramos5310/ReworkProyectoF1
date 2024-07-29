@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CarreraF1>
+    <Carrera>
+        <Nombre>Gran Premio de Gran Bretaña</Nombre>
+        <Fecha>2024-07-14</Fecha>
+        <Circuito>
+            <Nombre>Silverstone Circuit</Nombre>
+            <Ubicacion>Silverstone, Reino Unido</Ubicacion>
+            <Longitud>5.891</Longitud>
+            <Vueltas>52</Vueltas>
+        </Circuito>
+        <Clima>
+            <Condicion>Soleado</Condicion>
+            <Temperatura>23</Temperatura>
+            <Humedad>50</Humedad>
+            <Viento>16 km/h</Viento>
+        </Clima>
+        <Resultados>
+            <Piloto>
+                <Nombre>Max Verstappen</Nombre>
+                <Escuderia>Red Bull Racing</Escuderia>
+                <Posicion>1</Posicion>
+                <NumeroCoche>1</NumeroCoche>
+                <Pais>Países Bajos</Pais>
+                <VueltasCompletadas>52</VueltasCompletadas>
+                <Tiempo>1:28:45.789</Tiempo>
+                <MejorVuelta>1:27.123</MejorVuelta>
+                <Puntos>25</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Lewis Hamilton</Nombre>
+                <Escuderia>Mercedes AMG Petronas</Escuderia>
+                <Posicion>2</Posicion>
+                <NumeroCoche>44</NumeroCoche>
+                <Pais>Reino Unido</Pais>
+                <VueltasCompletadas>52</VueltasCompletadas>
+                <Tiempo>1:28:46.123</Tiempo>
+                <MejorVuelta>1:27.456</MejorVuelta>
+                <Puntos>18</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Charles Leclerc</Nombre>
+                <Escuderia>Scuderia Ferrari</Escuderia>
+                <Posicion>3</Posicion>
+                <NumeroCoche>16</NumeroCoche>
+                <Pais>Mónaco</Pais>
+                <VueltasCompletadas>52</VueltasCompletadas>
+                <Tiempo>1:28:47.456</Tiempo>
+                <MejorVuelta>1:27.789</MejorVuelta>
+                <Puntos>15</Puntos>
+            </Piloto>
+        </Resultados>
+        <Incidentes>
+            <Incidente>
+                <Vueltas>10</Vueltas>
+                <Descripcion>Colisión entre los coches de Valtteri Bottas y Pierre Gasly.</Descripcion>
+                <Consecuencias>Bottas se retiró, Gasly continuó con daños menores.</Consecuencias>
+            </Incidente>
+            <Incidente>
+                <Vueltas>45</Vueltas>
+                <Descripcion>Falla en el sistema hidráulico del coche de Sergio Pérez.</Descripcion>
+                <Consecuencias>Pérez se retiró de la carrera.</Consecuencias>
+            </Incidente>
+        </Incidentes>
+    </Carrera>
+</CarreraF1>

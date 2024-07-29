@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CarreraF1>
+    <Carrera>
+        <Nombre>Gran Premio de Arabia Saudí</Nombre>
+        <Fecha>2024-03-10</Fecha>
+        <Circuito>
+            <Nombre>Circuito de la Corniche de Yeda</Nombre>
+            <Ubicacion>Yeda, Arabia Saudí</Ubicacion>
+            <Longitud>6.174</Longitud>
+            <Vueltas>50</Vueltas>
+        </Circuito>
+        <Clima>
+            <Condicion>Despejado</Condicion>
+            <Temperatura>30</Temperatura>
+            <Humedad>55</Humedad>
+            <Viento>10 km/h</Viento>
+        </Clima>
+        <Resultados>
+            <Piloto>
+                <Nombre>Max Verstappen</Nombre>
+                <Escuderia>Red Bull Racing</Escuderia>
+                <Posicion>1</Posicion>
+                <NumeroCoche>1</NumeroCoche>
+                <Pais>Países Bajos</Pais>
+                <VueltasCompletadas>50</VueltasCompletadas>
+                <Tiempo>1:30:45.789</Tiempo>
+                <MejorVuelta>1:29.123</MejorVuelta>
+                <Puntos>25</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Lewis Hamilton</Nombre>
+                <Escuderia>Mercedes AMG Petronas</Escuderia>
+                <Posicion>2</Posicion>
+                <NumeroCoche>44</NumeroCoche>
+                <Pais>Reino Unido</Pais>
+                <VueltasCompletadas>50</VueltasCompletadas>
+                <Tiempo>1:30:46.123</Tiempo>
+                <MejorVuelta>1:29.456</MejorVuelta>
+                <Puntos>18</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Charles Leclerc</Nombre>
+                <Escuderia>Scuderia Ferrari</Escuderia>
+                <Posicion>3</Posicion>
+                <NumeroCoche>16</NumeroCoche>
+                <Pais>Mónaco</Pais>
+                <VueltasCompletadas>50</VueltasCompletadas>
+                <Tiempo>1:30:47.456</Tiempo>
+                <MejorVuelta>1:29.789</MejorVuelta>
+                <Puntos>15</Puntos>
+            </Piloto>
+        </Resultados>
+        <Incidentes>
+            <Incidente>
+                <Vueltas>20</Vueltas>
+                <Descripcion>Colisión entre los coches de Fernando Alonso y Sergio Pérez.</Descripcion>
+                <Consecuencias>Alonso se retiró, Pérez continuó con daños menores.</Consecuencias>
+            </Incidente>
+            <Incidente>
+                <Vueltas>35</Vueltas>
+                <Descripcion>Pinchazo en el coche de Lando Norris.</Descripcion>
+                <Consecuencias>Norris perdió varias posiciones pero pudo continuar.</Consecuencias>
+            </Incidente>
+        </Incidentes>
+    </Carrera>
+</CarreraF1>

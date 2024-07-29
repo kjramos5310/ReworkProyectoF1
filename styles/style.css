@@ -1,0 +1,257 @@
+body {
+  /* font-family: 'Bebas Neue', cursive; */
+  background-color: rgb(0, 0, 0);
+}
+
+.navbar-brand {
+  font-size: 30px;
+  color: #000000;
+  /* font-weight: bold; */
+}
+
+.navbar-dark.bg-dark {
+  background-color: rgba(255, 255, 255, 0.5) !important;
+  /* Más oscuro y transparente */
+  height: 100px;
+}
+
+.navbar,
+.navbar-brand,
+.nav-item,
+.btn-block {
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+.navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 1.2rem;
+  padding: 30px 1rem;
+  /* Ajusta el padding para cubrir toda la altura del navbar */
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.navbar-nav .nav-item.nav-link {
+  display: flex;
+  align-items: center;
+}
+
+
+.navbar-nav .nav-link:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  /* Blanco transparente */
+  color: #ff0000;
+  /* Letras rojas */
+}
+
+
+/* TITLES */
+h1,
+h2 {
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+/* GENERAL TEXT */
+body,
+h3,
+li,
+a {
+  font-family: 'Raleway', sans-serif;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  /* font-size: 0.5rem; Hace el texto más pequeño */
+  font-style: italic;
+  /* Aplica cursiva */
+  font-weight: 300;
+  /* Hace las letras más delgadas */
+}
+
+.logo {
+  filter: brightness(1) opacity(0.7);
+  /* Más oscuro y transparente */
+}
+
+.nav-item {
+  font-size: 23px;
+  color: #000;
+}
+
+#nosotros img:hover {
+  transform: scale(1.1);
+  /* Increase image size slightly on hover */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  /* Add a subtle shadow */
+}
+
+#header {
+  background: #000;
+  /* Cambia el fondo según tus necesidades */
+  padding: 100px 0;
+  /* Aumenta el padding superior e inferior */
+}
+
+.carousel-item img {
+  max-height: 700px;
+  /* Adjust this value as needed */
+  object-fit: cover;
+}
+
+#testimonialp {
+  background-color: rgb(0, 0, 0);
+  /* Cambia el color de fondo */
+  padding: 50px 0 50px 0;
+  /*Ajusta el relleno */
+  text-align: center;
+  /* Alinea el texto al centro */
+  justify-content: center;
+  border: 1px solid white;
+  /* Aplica el borde blanco */
+  margin-top: 40px;
+  /* Ajusta el margen superior */
+  margin-left: 45px;
+  margin-right: 45px;
+  border-radius: 15px;
+}
+
+#testimonialp:hover {
+  background-color: rgb(74, 72, 72);
+  /* Cambia el color de fondo */
+  transform: scale(1.05);
+  /* Escala el elemento al 105% */
+}
+
+.custom-paragraph {
+  animation: marquee 10s linear infinite;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+#testimonial {
+  background: linear-gradient(rgba(253, 3, 3, 0.9), rgba(66, 3, 3, 0.1));
+  padding: 100px 0 30px 0;
+  text-align: center;
+  margin-top: 40px;
+}
+
+#Agenda {
+  padding: 20px 0;
+}
+
+#Agenda .card {
+  padding: 20px;
+  margin: 10px 0;
+  background-color: black;
+  color: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* #Agenda h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+#Agenda h3 {
+    margin-bottom: 20px;
+} */
+
+.card {
+  position: relative;
+  padding: 20px;
+  padding-top: 40px;
+  /* Añade espacio para el título */
+  border-top: 2px solid #FF0000;
+  /* Borde superior */
+  border-right: 2px solid #FF0000;
+  /* Borde derecho */
+  border-bottom: 2px solid #FF0000;
+  /* Borde inferior */
+  /* No se define un borde izquierdo */
+  background-color: #fff;
+  /* Color de fondo */
+  margin: 20px 0;
+  /* Espacio entre las tarjetas y los bordes */
+}
+
+.card h3 {
+  position: absolute;
+  top: -20px;
+  /* Ajusta la posición vertical del título */
+  left: 0;
+  margin: 0;
+  padding: 0 10px;
+  background-color: #000000;
+  /* Color de fondo para el título */
+}
+
+.btn-red {
+  background-color: #d41024; /* Color rojo Bootstrap */
+  border-color: #96343e; /* Borde del botón rojo */
+  color: #fff; /* Texto blanco */
+  border-radius: 25px;
+}
+
+.btn-red:hover {
+  background-color: #582127; /* Color rojo oscuro en hover */
+  border-color: #ed6573; /* Borde rojo oscuro en hover */
+}
+
+.modal-dialog.modal-sm {
+  max-width: 50%; /* Ajusta el tamaño máximo del modal */
+  width: 50%; /* Ancho del modal */
+  height: 60%; /* Altura del modal */
+  margin: auto; /* Centra el modal verticalmente */
+}
+.modal-content {
+  height: 100%; /* Asegura que el contenido ocupe el 100% de la altura del modal */
+  border-radius: 0; /* Elimina los bordes redondeados si lo prefieres */
+  background-color: rgba(227, 222, 222, 0.8); /* Fondo del modal con opacidad */
+}
+/* Estilo para la imagen dentro del modal */
+#imagenModal {
+  width: 100%; /* Asegura que la imagen ocupe todo el ancho del modal */
+  height: auto; /* Mantiene la proporción de la imagen */
+  display: block; /* Elimina el espacio en la parte inferior de la imagen */
+  margin-bottom: 1rem; /* Espacio inferior para separar la imagen del texto */
+  /* opacity: 0.8; */
+}
+
+
+.logo {
+  height: 70px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+.form-control {
+  background-color: #0000009f;
+  color: #2e0101 !important;
+}
+
+#cardLaboratory, #cardNosotros, #cardContacto{
+  border: 1px solid white; /* Elimina el borde del acordeón */
+  border-radius: 0; /* Elimina el borde redondeado de las tarjetas */
+  margin-bottom: 0; /* Elimina el margen inferior entre los acordeones */
+  color: wheat;
+}
+
+.accordion .btn-link {
+  color: #fff; /* Color del texto del botón */
+  text-decoration: none; /* Elimina el subrayado del texto del botón */
+  font-size: 18px; /* Ajusta el tamaño del texto según sea necesario */
+  width: 50%; /* Asegura que el botón ocupe todo el ancho del encabezado */
+  text-align: left; /* Alinea el texto a la izquierda */
+  padding: 15px; /* Añade padding para hacer el botón más grande y cómodo de usar */
+}
+
+
+
+footer {
+  background-color: rgb(5, 5, 5);
+  background: url(./img/f12024_4.jpg) no-repeat center;
+  /* Center the image horizontally */
+  background-position: right;
+  /* Maintain right-side alignment for vertical centering */
+}

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CarreraF1>
+    <Carrera>
+        <Nombre>Gran Premio de Austria</Nombre>
+        <Fecha>2024-06-30</Fecha>
+        <Circuito>
+            <Nombre>Circuito de Spielberg</Nombre>
+            <Ubicacion>Spielberg, Austria</Ubicacion>
+            <Longitud>4.318</Longitud>
+            <Vueltas>71</Vueltas>
+        </Circuito>
+        <Clima>
+            <Condicion>Despejado</Condicion>
+            <Temperatura>20</Temperatura>
+            <Humedad>45</Humedad>
+            <Viento>8 km/h</Viento>
+        </Clima>
+        <Resultados>
+            <Piloto>
+                <Nombre>Sergio Pérez</Nombre>
+                <Escuderia>Red Bull Racing</Escuderia>
+                <Posicion>1</Posicion>
+                <NumeroCoche>11</NumeroCoche>
+                <Pais>México</Pais>
+                <VueltasCompletadas>71</VueltasCompletadas>
+                <Tiempo>1:20:45.678</Tiempo>
+                <MejorVuelta>1:07.123</MejorVuelta>
+                <Puntos>25</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>George Russell</Nombre>
+                <Escuderia>Mercedes AMG Petronas</Escuderia>
+                <Posicion>2</Posicion>
+                <NumeroCoche>63</NumeroCoche>
+                <Pais>Reino Unido</Pais>
+                <VueltasCompletadas>71</VueltasCompletadas>
+                <Tiempo>1:20:48.789</Tiempo>
+                <MejorVuelta>1:07.456</MejorVuelta>
+                <Puntos>18</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Daniel Ricciardo</Nombre>
+                <Escuderia>AlphaTauri</Escuderia>
+                <Posicion>3</Posicion>
+                <NumeroCoche>3</NumeroCoche>
+                <Pais>Australia</Pais>
+                <VueltasCompletadas>71</VueltasCompletadas>
+                <Tiempo>1:20:51.890</Tiempo>
+                <MejorVuelta>1:07.789</MejorVuelta>
+                <Puntos>15</Puntos>
+            </Piloto>
+        </Resultados>
+        <Incidentes>
+            <Incidente>
+                <Vueltas>35</Vueltas>
+                <Descripcion>Accidente entre los coches de Valtteri Bottas y Mick Schumacher.</Descripcion>
+                <Consecuencias>Bottas se retiró, Schumacher continuó con daños.</Consecuencias>
+            </Incidente>
+            <Incidente>
+                <Vueltas>62</Vueltas>
+                <Descripcion>Problema de motor en el coche de Carlos Sainz.</Descripcion>
+                <Consecuencias>Sainz se retiró de la carrera.</Consecuencias>
+            </Incidente>
+        </Incidentes>
+    </Carrera>
+</CarreraF1>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CarreraF1>
+    <Carrera>
+        <Nombre>Gran Premio de España</Nombre>
+        <Fecha>2024-06-23</Fecha>
+        <Circuito>
+            <Nombre>Circuito de Barcelona-Cataluña</Nombre>
+            <Ubicacion>Montmeló, España</Ubicacion>
+            <Longitud>4.675</Longitud>
+            <Vueltas>66</Vueltas>
+        </Circuito>
+        <Clima>
+            <Condicion>Soleado</Condicion>
+            <Temperatura>28</Temperatura>
+            <Humedad>45</Humedad>
+            <Viento>13 km/h</Viento>
+        </Clima>
+        <Resultados>
+            <Piloto>
+                <Nombre>Max Verstappen</Nombre>
+                <Escuderia>Red Bull Racing</Escuderia>
+                <Posicion>1</Posicion>
+                <NumeroCoche>1</NumeroCoche>
+                <Pais>Países Bajos</Pais>
+                <VueltasCompletadas>66</VueltasCompletadas>
+                <Tiempo>1:35:45.789</Tiempo>
+                <MejorVuelta>1:21.123</MejorVuelta>
+                <Puntos>25</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Lewis Hamilton</Nombre>
+                <Escuderia>Mercedes AMG Petronas</Escuderia>
+                <Posicion>2</Posicion>
+                <NumeroCoche>44</NumeroCoche>
+                <Pais>Reino Unido</Pais>
+                <VueltasCompletadas>66</VueltasCompletadas>
+                <Tiempo>1:35:46.123</Tiempo>
+                <MejorVuelta>1:21.456</MejorVuelta>
+                <Puntos>18</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Charles Leclerc</Nombre>
+                <Escuderia>Scuderia Ferrari</Escuderia>
+                <Posicion>3</Posicion>
+                <NumeroCoche>16</NumeroCoche>
+                <Pais>Mónaco</Pais>
+                <VueltasCompletadas>66</VueltasCompletadas>
+                <Tiempo>1:35:47.456</Tiempo>
+                <MejorVuelta>1:21.789</MejorVuelta>
+                <Puntos>15</Puntos>
+            </Piloto>
+        </Resultados>
+        <Incidentes>
+            <Incidente>
+                <Vueltas>20</Vueltas>
+                <Descripcion>Colisión entre los coches de Fernando Alonso y Lance Stroll.</Descripcion>
+                <Consecuencias>Alonso se retiró, Stroll continuó con daños menores.</Consecuencias>
+            </Incidente>
+            <Incidente>
+                <Vueltas>45</Vueltas>
+                <Descripcion>Problemas de frenos en el coche de Pierre Gasly.</Descripcion>
+                <Consecuencias>Gasly se retiró de la carrera.</Consecuencias>
+            </Incidente>
+        </Incidentes>
+    </Carrera>
+</CarreraF1>

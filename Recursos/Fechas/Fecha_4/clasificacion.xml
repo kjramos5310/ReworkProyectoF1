@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClasificacionF1>
+    <Sesion>
+        <Nombre>Clasificación Gran Premio de [NombreGranPremio]</Nombre>
+        <Fecha>[FechaClasificacion]</Fecha>
+        <Resultados>
+            <Piloto>
+                <Nombre>[NombrePiloto]</Nombre>
+                <Escuderia>[Escuderia]</Escuderia>
+                <Posicion>[Posicion]</Posicion>
+                <NumeroCoche>[NumeroCoche]</NumeroCoche>
+                <Pais>[Pais]</Pais>
+                <Tiempo>[Tiempo]</Tiempo>
+                <VueltasRapidas>[VueltasRapidas]</VueltasRapidas>
+            </Piloto>
+        </Resultados>
+        <Incidentes>
+            <Incidente>
+                <Vueltas>[VueltasIncidente]</Vueltas>
+                <Descripcion>[DescripcionIncidente]</Descripcion>
+                <Consecuencias>[ConsecuenciasIncidente]</Consecuencias>
+            </Incidente>
+        </Incidentes>
+        <Directivos>
+            <DirectorDeCarrera>[DirectorDeCarrera]</DirectorDeCarrera>
+            <JefeDeEquipo>
+                <Nombre>[NombreJefeDeEquipo]</Nombre>
+                <Escuderia>[Escuderia]</Escuderia>
+            </JefeDeEquipo>
+        </Directivos>
+    </Sesion>
+</ClasificacionF1>

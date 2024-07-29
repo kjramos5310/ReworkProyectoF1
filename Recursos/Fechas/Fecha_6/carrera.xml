@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CarreraF1>
+    <Carrera>
+        <Nombre>Gran Premio de Mónaco</Nombre>
+        <Fecha>2024-05-26</Fecha>
+        <Circuito>
+            <Nombre>Circuito de Mónaco</Nombre>
+            <Ubicacion>Mónaco</Ubicacion>
+            <Longitud>3.337</Longitud>
+            <Vueltas>78</Vueltas>
+        </Circuito>
+        <Clima>
+            <Condicion>Soleado</Condicion>
+            <Temperatura>25</Temperatura>
+            <Humedad>60</Humedad>
+            <Viento>15 km/h</Viento>
+        </Clima>
+        <Resultados>
+            <Piloto>
+                <Nombre>Max Verstappen</Nombre>
+                <Escuderia>Red Bull Racing</Escuderia>
+                <Posicion>1</Posicion>
+                <NumeroCoche>33</NumeroCoche>
+                <Pais>Países Bajos</Pais>
+                <VueltasCompletadas>78</VueltasCompletadas>
+                <Tiempo>1:32:45.123</Tiempo>
+                <MejorVuelta>1:12.345</MejorVuelta>
+                <Puntos>25</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Lewis Hamilton</Nombre>
+                <Escuderia>Mercedes AMG Petronas</Escuderia>
+                <Posicion>2</Posicion>
+                <NumeroCoche>44</NumeroCoche>
+                <Pais>Reino Unido</Pais>
+                <VueltasCompletadas>78</VueltasCompletadas>
+                <Tiempo>1:32:47.456</Tiempo>
+                <MejorVuelta>1:12.567</MejorVuelta>
+                <Puntos>18</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Charles Leclerc</Nombre>
+                <Escuderia>Scuderia Ferrari</Escuderia>
+                <Posicion>3</Posicion>
+                <NumeroCoche>16</NumeroCoche>
+                <Pais>Mónaco</Pais>
+                <VueltasCompletadas>78</VueltasCompletadas>
+                <Tiempo>1:32:49.789</Tiempo>
+                <MejorVuelta>1:12.789</MejorVuelta>
+                <Puntos>15</Puntos>
+            </Piloto>
+        </Resultados>
+        <Incidentes>
+            <Incidente>
+                <Vueltas>23</Vueltas>
+                <Descripcion>Colisión entre los coches de Pierre Gasly y Lando Norris.</Descripcion>
+                <Consecuencias>Gasly se retiró, Norris continuó con daños menores.</Consecuencias>
+            </Incidente>
+            <Incidente>
+                <Vueltas>55</Vueltas>
+                <Descripcion>Fallo mecánico en el coche de Sergio Pérez.</Descripcion>
+                <Consecuencias>Pérez se retiró de la carrera.</Consecuencias>
+            </Incidente>
+        </Incidentes>
+    </Carrera>
+</CarreraF1>

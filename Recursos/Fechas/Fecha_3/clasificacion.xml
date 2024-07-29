@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClasificacionF1>
+    <Sesion>
+        <Nombre>Clasificación Gran Premio de Australia</Nombre>
+        <Fecha>2024-03-23</Fecha>
+        <Resultados>
+            <Piloto>
+                <Nombre>Max Verstappen</Nombre>
+                <Escuderia>Red Bull Racing</Escuderia>
+                <Posicion>1</Posicion>
+                <NumeroCoche>1</NumeroCoche>
+                <Pais>Países Bajos</Pais>
+                <Tiempo>1:29.456</Tiempo>
+                <VueltasRapidas>3</VueltasRapidas>
+            </Piloto>
+            <Piloto>
+                <Nombre>Lewis Hamilton</Nombre>
+                <Escuderia>Mercedes AMG Petronas</Escuderia>
+                <Posicion>2</Posicion>
+                <NumeroCoche>44</NumeroCoche>
+                <Pais>Reino Unido</Pais>
+                <Tiempo>1:29.789</Tiempo>
+                <VueltasRapidas>3</VueltasRapidas>
+            </Piloto>
+            <Piloto>
+                <Nombre>Charles Leclerc</Nombre>
+                <Escuderia>Scuderia Ferrari</Escuderia>
+                <Posicion>3</Posicion>
+                <NumeroCoche>16</NumeroCoche>
+                <Pais>Mónaco</Pais>
+                <Tiempo>1:30.123</Tiempo>
+                <VueltasRapidas>3</VueltasRapidas>
+            </Piloto>
+        </Resultados>
+        <Incidentes>
+            <Incidente>
+                <Vueltas>15</Vueltas>
+                <Descripcion>Colisión entre los coches de Esteban Ocon y Valtteri Bottas.</Descripcion>
+                <Consecuencias>Ocon se retiró, Bottas continuó con daños menores.</Consecuencias>
+            </Incidente>
+        </Incidentes>
+        <Directivos>
+            <DirectorDeCarrera>Michael Masi</DirectorDeCarrera>
+            <JefeDeEquipo>
+                <Nombre>Christian Horner</Nombre>
+                <Escuderia>Red Bull Racing</Escuderia>
+            </JefeDeEquipo>
+            <JefeDeEquipo>
+                <Nombre>Toto Wolff</Nombre>
+                <Escuderia>Mercedes AMG Petronas</Escuderia>
+            </JefeDeEquipo>
+        </Directivos>
+    </Sesion>
+</ClasificacionF1>

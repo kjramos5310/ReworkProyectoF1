@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CarreraF1>
+    <Carrera>
+        <Nombre>Gran Premio de Bahréin</Nombre>
+        <Fecha>2024-03-03</Fecha>
+        <Circuito>
+            <Nombre>Circuito Internacional de Bahréin</Nombre>
+            <Ubicacion>Sakhir, Bahréin</Ubicacion>
+            <Longitud>5.412</Longitud>
+            <Vueltas>57</Vueltas>
+        </Circuito>
+        <Clima>
+            <Condicion>Despejado</Condicion>
+            <Temperatura>28</Temperatura>
+            <Humedad>50</Humedad>
+            <Viento>12 km/h</Viento>
+        </Clima>
+        <Resultados>
+            <Piloto>
+                <Nombre>Max Verstappen</Nombre>
+                <Escuderia>Red Bull Racing</Escuderia>
+                <Posicion>1</Posicion>
+                <NumeroCoche>1</NumeroCoche>
+                <Pais>Países Bajos</Pais>
+                <VueltasCompletadas>57</VueltasCompletadas>
+                <Tiempo>1:32:23.456</Tiempo>
+                <MejorVuelta>1:31.123</MejorVuelta>
+                <Puntos>25</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Lewis Hamilton</Nombre>
+                <Escuderia>Mercedes AMG Petronas</Escuderia>
+                <Posicion>2</Posicion>
+                <NumeroCoche>44</NumeroCoche>
+                <Pais>Reino Unido</Pais>
+                <VueltasCompletadas>57</VueltasCompletadas>
+                <Tiempo>1:32:24.789</Tiempo>
+                <MejorVuelta>1:31.456</MejorVuelta>
+                <Puntos>18</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Charles Leclerc</Nombre>
+                <Escuderia>Scuderia Ferrari</Escuderia>
+                <Posicion>3</Posicion>
+                <NumeroCoche>16</NumeroCoche>
+                <Pais>Mónaco</Pais>
+                <VueltasCompletadas>57</VueltasCompletadas>
+                <Tiempo>1:32:26.123</Tiempo>
+                <MejorVuelta>1:31.789</MejorVuelta>
+                <Puntos>15</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Sergio Pérez</Nombre>
+                <Escuderia>Red Bull Racing</Escuderia>
+                <Posicion>4</Posicion>
+                <NumeroCoche>11</NumeroCoche>
+                <Pais>México</Pais>
+                <VueltasCompletadas>57</VueltasCompletadas>
+                <Tiempo>1:32:30.456</Tiempo>
+                <MejorVuelta>1:32.000</MejorVuelta>
+                <Puntos>12</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>George Russell</Nombre>
+                <Escuderia>Mercedes AMG Petronas</Escuderia>
+                <Posicion>5</Posicion>
+                <NumeroCoche>63</NumeroCoche>
+                <Pais>Reino Unido</Pais>
+                <VueltasCompletadas>57</VueltasCompletadas>
+                <Tiempo>1:32:35.678</Tiempo>
+                <MejorVuelta>1:32.200</MejorVuelta>
+                <Puntos>10</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Carlos Sainz</Nombre>
+                <Escuderia>Scuderia Ferrari</Escuderia>
+                <Posicion>6</Posicion>
+                <NumeroCoche>55</NumeroCoche>
+                <Pais>España</Pais>
+                <VueltasCompletadas>57</VueltasCompletadas>
+                <Tiempo>1:32:40.123</Tiempo>
+                <MejorVuelta>1:32.400</MejorVuelta>
+                <Puntos>8</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Lando Norris</Nombre>
+                <Escuderia>McLaren</Escuderia>
+                <Posicion>7</Posicion>
+                <NumeroCoche>4</NumeroCoche>
+                <Pais>Reino Unido</Pais>
+                <VueltasCompletadas>57</VueltasCompletadas>
+                <Tiempo>1:32:45.789</Tiempo>
+                <MejorVuelta>1:32.500</MejorVuelta>
+                <Puntos>6</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Fernando Alonso</Nombre>
+                <Escuderia>Aston Martin</Escuderia>
+                <Posicion>8</Posicion>
+                <NumeroCoche>14</NumeroCoche>
+                <Pais>España</Pais>
+                <VueltasCompletadas>57</VueltasCompletadas>
+                <Tiempo>1:32:50.456</Tiempo>
+                <MejorVuelta>1:32.600</MejorVuelta>
+                <Puntos>4</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Esteban Ocon</Nombre>
+                <Escuderia>Alpine</Escuderia>
+                <Posicion>9</Posicion>
+                <NumeroCoche>31</NumeroCoche>
+                <Pais>Francia</Pais>
+                <VueltasCompletadas>57</VueltasCompletadas>
+                <Tiempo>1:32:55.123</Tiempo>
+                <MejorVuelta>1:32.700</MejorVuelta>
+                <Puntos>2</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Sebastian Vettel</Nombre>
+                <Escuderia>Aston Martin</Escuderia>
+                <Posicion>10</Posicion>
+                <NumeroCoche>5</NumeroCoche>
+                <Pais>Alemania</Pais>
+                <VueltasCompletadas>57</VueltasCompletadas>
+                <Tiempo>1:33:00.789</Tiempo>
+                <MejorVuelta>1:33.000</MejorVuelta>
+                <Puntos>1</Puntos>  
+            </Piloto>
+
+        </Resultados>
+        <Incidentes>
+            <Incidente>
+                <Vueltas>23</Vueltas>
+                <Descripcion>Colisión entre los coches de Pierre Gasly y Lando Norris.</Descripcion>
+                <Consecuencias>Gasly se retiró, Norris continuó con daños menores.</Consecuencias>
+            </Incidente>
+            <Incidente>
+                <Vueltas>40</Vueltas>
+                <Descripcion>Fuga de aceite en el coche de Carlos Sainz.</Descripcion>
+                <Consecuencias>Sainz se retiró de la carrera.</Consecuencias>
+            </Incidente>
+        </Incidentes>
+    </Carrera>
+</CarreraF1>

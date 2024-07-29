@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Borde sin lado izquierdo</title>
+    <style>
+        .no-left-border {
+            width: 300px; /* Ajusta según sea necesario */
+            padding: 20px;
+            padding-top: 40px; /* Añade espacio para el título */
+            border-top: 2px solid #FF0000; /* Borde superior */
+            border-right: 2px solid #FF0000; /* Borde derecho */
+            border-bottom: 2px solid #FF0000; /* Borde inferior */
+            background-color: #fff; /* Color de fondo */
+            margin: 20px;
+            position: relative; /* Necesario para posicionar el título */
+        }
+
+        .no-left-border h1 {
+            position: absolute;
+            top: -20px; /* Ajusta la posición vertical del título */
+            left: 0;
+            margin: 0;
+            padding: 0 10px;
+            background-color: #fff; /* Color de fondo para el título */
+        }
+
+        .no-left-border p {
+            margin-top: 20px; /* Espacio entre el título y el contenido */
+        }
+    </style>
+</head>
+<body>
+    <div class="no-left-border">
+        <h1>Título</h1>
+        <p>Este es un ejemplo de una caja con bordes en todos los lados excepto el izquierdo.</p>
+    </div>
+</body>
+</html>

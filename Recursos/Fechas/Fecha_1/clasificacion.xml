@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClasificacionF1>
+    <Sesion>
+        <Nombre>Clasificación Gran Premio de Bahréin</Nombre>
+        <Fecha>2024-03-02</Fecha>
+        <Resultados>
+            <Piloto>
+                <Nombre>Max Verstappen</Nombre>
+                <Escuderia>Red Bull Racing</Escuderia>
+                <Posicion>1</Posicion>
+                <NumeroCoche>1</NumeroCoche>
+                <Pais>Países Bajos</Pais>
+                <Tiempo>1:28.123</Tiempo>
+                <VueltasRapidas>3</VueltasRapidas>
+            </Piloto>
+            <Piloto>
+                <Nombre>Lewis Hamilton</Nombre>
+                <Escuderia>Mercedes AMG Petronas</Escuderia>
+                <Posicion>2</Posicion>
+                <NumeroCoche>44</NumeroCoche>
+                <Pais>Reino Unido</Pais>
+                <Tiempo>1:28.456</Tiempo>
+                <VueltasRapidas>3</VueltasRapidas>
+            </Piloto>
+            <Piloto>
+                <Nombre>Charles Leclerc</Nombre>
+                <Escuderia>Scuderia Ferrari</Escuderia>
+                <Posicion>3</Posicion>
+                <NumeroCoche>16</NumeroCoche>
+                <Pais>Mónaco</Pais>
+                <Tiempo>1:28.789</Tiempo>
+                <VueltasRapidas>3</VueltasRapidas>
+            </Piloto>
+            <Piloto>
+                <Nombre>Sergio Pérez</Nombre>
+                <Escuderia>Red Bull Racing</Escuderia>
+                <Posicion>4</Posicion>
+                <NumeroCoche>11</NumeroCoche>
+                <Pais>México</Pais>
+                <Tiempo>1:28.900</Tiempo>
+                <VueltasRapidas>2</VueltasRapidas>
+            </Piloto>
+            <Piloto>
+                <Nombre>George Russell</Nombre>
+                <Escuderia>Mercedes AMG Petronas</Escuderia>
+                <Posicion>5</Posicion>
+                <NumeroCoche>63</NumeroCoche>
+                <Pais>Reino Unido</Pais>
+                <Tiempo>1:29.050</Tiempo>
+                <VueltasRapidas>2</VueltasRapidas>
+            </Piloto>
+            <Piloto>
+                <Nombre>Carlos Sainz</Nombre>
+                <Escuderia>Scuderia Ferrari</Escuderia>
+                <Posicion>6</Posicion>
+                <NumeroCoche>55</NumeroCoche>
+                <Pais>España</Pais>
+                <Tiempo>1:29.200</Tiempo>
+                <VueltasRapidas>2</VueltasRapidas>
+            </Piloto>
+            <Piloto>
+                <Nombre>Lando Norris</Nombre>
+                <Escuderia>McLaren</Escuderia>
+                <Posicion>7</Posicion>
+                <NumeroCoche>4</NumeroCoche>
+                <Pais>Reino Unido</Pais>
+                <Tiempo>1:29.350</Tiempo>
+                <VueltasRapidas>1</VueltasRapidas>
+            </Piloto>
+            <Piloto>
+                <Nombre>Fernando Alonso</Nombre>
+                <Escuderia>Aston Martin</Escuderia>
+                <Posicion>8</Posicion>
+                <NumeroCoche>14</NumeroCoche>
+                <Pais>España</Pais>
+                <Tiempo>1:29.500</Tiempo>
+                <VueltasRapidas>1</VueltasRapidas>
+            </Piloto>
+            <Piloto>
+                <Nombre>Esteban Ocon</Nombre>
+                <Escuderia>Alpine</Escuderia>
+                <Posicion>9</Posicion>
+                <NumeroCoche>31</NumeroCoche>
+                <Pais>Francia</Pais>
+                <Tiempo>1:29.650</Tiempo>
+                <VueltasRapidas>1</VueltasRapidas>
+            </Piloto>
+
+            <Piloto>
+                <Nombre>Valtteri Bottas</Nombre>
+                <Escuderia>Alfa Romeo Racing</Escuderia>
+                <Posicion>10</Posicion>
+                <NumeroCoche>77</NumeroCoche>
+                <Pais>Finlandia</Pais>
+                <Tiempo>1:29.800</Tiempo>
+                <VueltasRapidas>1</VueltasRapidas>
+            </Piloto>
+
+        </Resultados>
+        <Incidentes>
+            <Incidente>
+                <Vueltas>23</Vueltas>
+                <Descripcion>Colisión entre los coches de Pierre Gasly y Lando Norris.</Descripcion>
+                <Consecuencias>Gasly se retiró, Norris continuó con daños menores.</Consecuencias>
+            </Incidente>
+        </Incidentes>
+        <Directivos>
+            <DirectorDeCarrera>Michael Masi</DirectorDeCarrera>
+            <JefeDeEquipo>
+                <Nombre>Christian Horner</Nombre>
+                <Escuderia>Red Bull Racing</Escuderia>
+            </JefeDeEquipo>
+            <JefeDeEquipo>
+                <Nombre>Toto Wolff</Nombre>
+                <Escuderia>Mercedes AMG Petronas</Escuderia>
+            </JefeDeEquipo>
+        </Directivos>
+    </Sesion>
+</ClasificacionF1>

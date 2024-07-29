@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CarreraF1>
+    <Carrera>
+        <Nombre>Gran Premio de Austria</Nombre>
+        <Fecha>2024-06-30</Fecha>
+        <Circuito>
+            <Nombre>Red Bull Ring</Nombre>
+            <Ubicacion>Spielberg, Austria</Ubicacion>
+            <Longitud>4.318</Longitud>
+            <Vueltas>71</Vueltas>
+        </Circuito>
+        <Clima>
+            <Condicion>Nublado</Condicion>
+            <Temperatura>22</Temperatura>
+            <Humedad>65</Humedad>
+            <Viento>12 km/h</Viento>
+        </Clima>
+        <Resultados>
+            <Piloto>
+                <Nombre>Max Verstappen</Nombre>
+                <Escuderia>Red Bull Racing</Escuderia>
+                <Posicion>1</Posicion>
+                <NumeroCoche>1</NumeroCoche>
+                <Pais>Países Bajos</Pais>
+                <VueltasCompletadas>71</VueltasCompletadas>
+                <Tiempo>1:22:45.123</Tiempo>
+                <MejorVuelta>1:06.123</MejorVuelta>
+                <Puntos>25</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Lewis Hamilton</Nombre>
+                <Escuderia>Mercedes AMG Petronas</Escuderia>
+                <Posicion>2</Posicion>
+                <NumeroCoche>44</NumeroCoche>
+                <Pais>Reino Unido</Pais>
+                <VueltasCompletadas>71</VueltasCompletadas>
+                <Tiempo>1:22:46.456</Tiempo>
+                <MejorVuelta>1:06.456</MejorVuelta>
+                <Puntos>18</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Charles Leclerc</Nombre>
+                <Escuderia>Scuderia Ferrari</Escuderia>
+                <Posicion>3</Posicion>
+                <NumeroCoche>16</NumeroCoche>
+                <Pais>Mónaco</Pais>
+                <VueltasCompletadas>71</VueltasCompletadas>
+                <Tiempo>1:22:47.789</Tiempo>
+                <MejorVuelta>1:06.789</MejorVuelta>
+                <Puntos>15</Puntos>
+            </Piloto>
+        </Resultados>
+        <Incidentes>
+            <Incidente>
+                <Vueltas>20</Vueltas>
+                <Descripcion>Colisión entre los coches de Lando Norris y Esteban Ocon.</Descripcion>
+                <Consecuencias>Norris se retiró, Ocon continuó con daños menores.</Consecuencias>
+            </Incidente>
+            <Incidente>
+                <Vueltas>55</Vueltas>
+                <Descripcion>Problemas en el motor del coche de Fernando Alonso.</Descripcion>
+                <Consecuencias>Alonso se retiró de la carrera.</Consecuencias>
+            </Incidente>
+        </Incidentes>
+    </Carrera>
+</CarreraF1>

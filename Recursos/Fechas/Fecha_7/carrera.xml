@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CarreraF1>
+    <Carrera>
+        <Nombre>Gran Premio de Canadá</Nombre>
+        <Fecha>2024-06-09</Fecha>
+        <Circuito>
+            <Nombre>Circuito Gilles Villeneuve</Nombre>
+            <Ubicacion>Montreal, Canadá</Ubicacion>
+            <Longitud>4.361</Longitud>
+            <Vueltas>70</Vueltas>
+        </Circuito>
+        <Clima>
+            <Condicion>Parcialmente nublado</Condicion>
+            <Temperatura>22</Temperatura>
+            <Humedad>55</Humedad>
+            <Viento>10 km/h</Viento>
+        </Clima>
+        <Resultados>
+            <Piloto>
+                <Nombre>Max Verstappen</Nombre>
+                <Escuderia>Red Bull Racing</Escuderia>
+                <Posicion>1</Posicion>
+                <NumeroCoche>33</NumeroCoche>
+                <Pais>Países Bajos</Pais>
+                <VueltasCompletadas>70</VueltasCompletadas>
+                <Tiempo>1:25:32.456</Tiempo>
+                <MejorVuelta>1:11.234</MejorVuelta>
+                <Puntos>25</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Charles Leclerc</Nombre>
+                <Escuderia>Scuderia Ferrari</Escuderia>
+                <Posicion>2</Posicion>
+                <NumeroCoche>16</NumeroCoche>
+                <Pais>Mónaco</Pais>
+                <VueltasCompletadas>70</VueltasCompletadas>
+                <Tiempo>1:25:34.567</Tiempo>
+                <MejorVuelta>1:11.567</MejorVuelta>
+                <Puntos>18</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Lewis Hamilton</Nombre>
+                <Escuderia>Mercedes AMG Petronas</Escuderia>
+                <Posicion>3</Posicion>
+                <NumeroCoche>44</NumeroCoche>
+                <Pais>Reino Unido</Pais>
+                <VueltasCompletadas>70</VueltasCompletadas>
+                <Tiempo>1:25:37.789</Tiempo>
+                <MejorVuelta>1:11.789</MejorVuelta>
+                <Puntos>15</Puntos>
+            </Piloto>
+        </Resultados>
+        <Incidentes>
+            <Incidente>
+                <Vueltas>45</Vueltas>
+                <Descripcion>Colisión entre los coches de Lando Norris y Esteban Ocon.</Descripcion>
+                <Consecuencias>Norris se retiró, Ocon continuó con daños.</Consecuencias>
+            </Incidente>
+            <Incidente>
+                <Vueltas>68</Vueltas>
+                <Descripcion>Fallo en el sistema de frenos del coche de Fernando Alonso.</Descripcion>
+                <Consecuencias>Alonso se retiró de la carrera.</Consecuencias>
+            </Incidente>
+        </Incidentes>
+    </Carrera>
+</CarreraF1>

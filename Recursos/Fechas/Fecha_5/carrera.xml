@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CarreraF1>
+    <Carrera>
+        <Nombre>Gran Premio de China</Nombre>
+        <Fecha>2024-04-07</Fecha>
+        <Circuito>
+            <Nombre>Circuito Internacional de Shanghái</Nombre>
+            <Ubicacion>Shanghái, China</Ubicacion>
+            <Longitud>5.451</Longitud>
+            <Vueltas>56</Vueltas>
+        </Circuito>
+        <Clima>
+            <Condicion>Nublado</Condicion>
+            <Temperatura>24</Temperatura>
+            <Humedad>70</Humedad>
+            <Viento>14 km/h</Viento>
+        </Clima>
+        <Resultados>
+            <Piloto>
+                <Nombre>Max Verstappen</Nombre>
+                <Escuderia>Red Bull Racing</Escuderia>
+                <Posicion>1</Posicion>
+                <NumeroCoche>1</NumeroCoche>
+                <Pais>Países Bajos</Pais>
+                <VueltasCompletadas>56</VueltasCompletadas>
+                <Tiempo>1:35:23.456</Tiempo>
+                <MejorVuelta>1:34.123</MejorVuelta>
+                <Puntos>25</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Lewis Hamilton</Nombre>
+                <Escuderia>Mercedes AMG Petronas</Escuderia>
+                <Posicion>2</Posicion>
+                <NumeroCoche>44</NumeroCoche>
+                <Pais>Reino Unido</Pais>
+                <VueltasCompletadas>56</VueltasCompletadas>
+                <Tiempo>1:35:24.789</Tiempo>
+                <MejorVuelta>1:34.456</MejorVuelta>
+                <Puntos>18</Puntos>
+            </Piloto>
+            <Piloto>
+                <Nombre>Charles Leclerc</Nombre>
+                <Escuderia>Scuderia Ferrari</Escuderia>
+                <Posicion>3</Posicion>
+                <NumeroCoche>16</NumeroCoche>
+                <Pais>Mónaco</Pais>
+                <VueltasCompletadas>56</VueltasCompletadas>
+                <Tiempo>1:35:26.123</Tiempo>
+                <MejorVuelta>1:34.789</MejorVuelta>
+                <Puntos>15</Puntos>
+            </Piloto>
+        </Resultados>
+        <Incidentes>
+            <Incidente>
+                <Vueltas>18</Vueltas>
+                <Descripcion>Colisión entre los coches de Sebastian Vettel y Kevin Magnussen.</Descripcion>
+                <Consecuencias>Vettel se retiró, Magnussen continuó con daños menores.</Consecuencias>
+            </Incidente>
+            <Incidente>
+                <Vueltas>50</Vueltas>
+                <Descripcion>Problemas eléctricos en el coche de Pierre Gasly.</Descripcion>
+                <Consecuencias>Gasly se retiró de la carrera.</Consecuencias>
+            </Incidente>
+        </Incidentes>
+    </Carrera>
+</CarreraF1>
